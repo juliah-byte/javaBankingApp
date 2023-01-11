@@ -3482,3 +3482,274 @@
 {INFO} - [com.app.Bank.main.Main] - Please try again. You didn't enter a 1 or 2.      2022-07-18 06:33:06,220
 {INFO} - [com.app.Bank.main.Main] - Hello new customer, would you like to apply for a new account with Java Banking?      2022-07-18 06:33:06,220
 {INFO} - [com.app.Bank.main.Main] - Enter 1 for yes. Enter 2 for no      2022-07-18 06:33:06,220
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-07-26 10:33:15,909
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-07-26 10:33:15,914
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-07-26 10:33:15,915
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-07-26 10:33:15,915
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-07-26 10:33:15,915
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-07-26 10:33:22,239
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-07-26 10:33:22,239
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-07-26 10:33:22,239
+{INFO} - [com.app.Bank.main.Main] - Hello new customer, would you like to apply for a new account with Java Banking?      2022-07-26 10:33:26,665
+{INFO} - [com.app.Bank.main.Main] - Enter 1 for yes. Enter 2 for no      2022-07-26 10:33:26,665
+{INFO} - [com.app.Bank.main.Main] - hello world      2022-07-26 10:33:30,707
+{INFO} - [com.app.Bank.main.Main] - Hello new customer, would you like to apply for a new account with Java Banking?      2022-07-26 10:33:30,708
+{INFO} - [com.app.Bank.main.Main] - Enter 1 for yes. Enter 2 for no      2022-07-26 10:33:30,708
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-07-26 10:34:25,714
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-07-26 10:34:25,716
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-07-26 10:34:25,716
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-07-26 10:34:25,716
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-07-26 10:34:25,716
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-07-26 10:34:28,724
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-07-26 10:34:28,725
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-07-26 10:34:28,725
+{INFO} - [com.app.Bank.main.Main] - Hello new customer, would you like to apply for a new account with Java Banking?      2022-07-26 10:34:35,739
+{INFO} - [com.app.Bank.main.Main] - Enter 1 for yes. Enter 2 for no      2022-07-26 10:34:35,739
+{INFO} - [com.app.Bank.main.Main] - hello world      2022-07-26 10:34:39,525
+{INFO} - [com.app.Bank.main.Main] - Please enter your username.      2022-07-26 10:34:39,525
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-10-19 23:33:50,907
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-10-19 23:33:50,909
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-10-19 23:33:50,909
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-10-19 23:33:50,909
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-10-19 23:33:50,910
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-10-19 23:33:58,565
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-10-19 23:33:58,565
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-10-19 23:33:58,565
+{INFO} - [com.app.Bank.main.Main] - Hello new customer, would you like to apply for a new account with Java Banking?      2022-10-19 23:34:22,138
+{INFO} - [com.app.Bank.main.Main] - Enter 1 for yes. Enter 2 for no      2022-10-19 23:34:22,139
+{INFO} - [com.app.Bank.main.Main] - hello world      2022-10-19 23:34:27,120
+{INFO} - [com.app.Bank.main.Main] - Please enter your username.      2022-10-19 23:34:27,121
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-10-19 23:50:49,059
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-10-19 23:50:49,060
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-10-19 23:50:49,060
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-10-19 23:50:49,060
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-10-19 23:50:49,061
+{INFO} - [com.app.Bank.main.Main] - Hello Employee!      2022-10-19 23:50:54,084
+{INFO} - [com.app.Bank.main.Main] - Please enter you Username.      2022-10-19 23:50:54,084
+{INFO} - [com.app.Bank.main.Main] - Please enter your password.      2022-10-19 23:50:58,214
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - This username and password combination does not exist in our system.      2022-10-19 23:51:02,120
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Please try again      2022-10-19 23:51:02,120
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-10-19 23:51:16,371
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-10-19 23:51:16,372
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-10-19 23:51:16,373
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-10-19 23:51:16,373
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-10-19 23:51:16,373
+{INFO} - [com.app.Bank.main.Main] - Hello Employee!      2022-10-19 23:51:24,155
+{INFO} - [com.app.Bank.main.Main] - Please enter you Username.      2022-10-19 23:51:24,156
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-10-19 23:51:31,014
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-10-19 23:51:31,017
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-10-19 23:51:31,017
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-10-19 23:51:31,017
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-10-19 23:51:31,017
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-10-19 23:51:34,011
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-10-19 23:51:34,011
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-10-19 23:51:34,011
+{INFO} - [com.app.Bank.main.Main] - Hello new customer, would you like to apply for a new account with Java Banking?      2022-10-19 23:51:36,456
+{INFO} - [com.app.Bank.main.Main] - Enter 1 for yes. Enter 2 for no      2022-10-19 23:51:36,456
+{INFO} - [com.app.Bank.main.Main] - hello world      2022-10-19 23:51:39,743
+{INFO} - [com.app.Bank.main.Main] - Please create a username.      2022-10-19 23:51:39,743
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-10-19 23:52:15,259
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-10-19 23:52:15,261
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-10-19 23:52:15,261
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-10-19 23:52:15,261
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-10-19 23:52:15,261
+{INFO} - [com.app.Bank.main.Main] - Hello Employee!      2022-10-19 23:52:28,973
+{INFO} - [com.app.Bank.main.Main] - Please enter you Username.      2022-10-19 23:52:28,973
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-10-19 23:52:35,976
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-10-19 23:52:35,977
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-10-19 23:52:35,977
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-10-19 23:52:35,977
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-10-19 23:52:35,977
+{INFO} - [com.app.Bank.main.Main] - Hello Employee!      2022-10-19 23:52:55,383
+{INFO} - [com.app.Bank.main.Main] - Please enter you Username.      2022-10-19 23:52:55,383
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-10-19 23:53:02,772
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-10-19 23:53:02,774
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-10-19 23:53:02,775
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-10-19 23:53:02,775
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-10-19 23:53:02,775
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-10-19 23:53:26,092
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-10-19 23:53:26,092
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-10-19 23:53:26,092
+{INFO} - [com.app.Bank.main.Main] - Hello new customer, would you like to apply for a new account with Java Banking?      2022-10-19 23:53:28,879
+{INFO} - [com.app.Bank.main.Main] - Enter 1 for yes. Enter 2 for no      2022-10-19 23:53:28,879
+{INFO} - [com.app.Bank.main.Main] - hello world      2022-10-19 23:53:32,806
+{INFO} - [com.app.Bank.main.Main] - Please create a unique username.      2022-10-19 23:53:32,807
+{INFO} - [com.app.Bank.main.Main] - Please enter your password.      2022-10-19 23:53:46,600
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - This username and password combination does not exist in our system.      2022-10-19 23:53:54,585
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Please try again      2022-10-19 23:53:54,585
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-11-26 23:19:15,551
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-11-26 23:19:15,557
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-11-26 23:19:15,557
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-11-26 23:19:15,558
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-11-26 23:19:15,558
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-11-26 23:19:26,843
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-11-26 23:19:26,843
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-11-26 23:19:26,843
+{INFO} - [com.app.Bank.main.Main] - Please create a unique username.      2022-11-26 23:21:04,004
+{INFO} - [com.app.Bank.main.Main] - Please enter your password.      2022-11-26 23:21:08,163
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - This username and password combination does not exist in our system.      2022-11-26 23:21:11,654
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Please try again      2022-11-26 23:21:11,654
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-11-26 23:29:29,455
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-11-26 23:29:29,456
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-11-26 23:29:29,456
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-11-26 23:29:29,457
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-11-26 23:29:29,457
+{INFO} - [com.app.Bank.main.Main] - Hello Employee!      2022-11-26 23:29:45,099
+{INFO} - [com.app.Bank.main.Main] - Please enter you Username.      2022-11-26 23:29:45,099
+{INFO} - [com.app.Bank.main.Main] - Please enter your password.      2022-11-26 23:29:50,771
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - This username and password combination does not exist in our system.      2022-11-26 23:29:55,056
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Please try again      2022-11-26 23:29:55,056
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-11-26 23:30:02,931
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-11-26 23:30:02,933
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-11-26 23:30:02,933
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-11-26 23:30:02,933
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-11-26 23:30:02,933
+{INFO} - [com.app.Bank.main.Main] - Hello Employee!      2022-11-26 23:30:10,218
+{INFO} - [com.app.Bank.main.Main] - Please enter you Username.      2022-11-26 23:30:10,219
+{INFO} - [com.app.Bank.main.Main] - Please enter your password.      2022-11-26 23:30:13,562
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - This username and password combination does not exist in our system.      2022-11-26 23:30:16,245
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Please try again      2022-11-26 23:30:16,245
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-11-26 23:30:19,769
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-11-26 23:30:19,771
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-11-26 23:30:19,771
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-11-26 23:30:19,771
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-11-26 23:30:19,771
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-11-26 23:30:22,583
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-11-26 23:30:22,584
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-11-26 23:30:22,584
+{INFO} - [com.app.Bank.main.Main] - Hello new customer, would you like to apply for a new account with Java Banking?      2022-11-26 23:30:28,921
+{INFO} - [com.app.Bank.main.Main] - Enter 1 for yes. Enter 2 for no      2022-11-26 23:30:28,921
+{INFO} - [com.app.Bank.main.Main] - hello world      2022-11-26 23:30:35,764
+{INFO} - [com.app.Bank.main.Main] - Please create a unique username.      2022-11-26 23:30:35,765
+{INFO} - [com.app.Bank.main.Main] - Please enter your password.      2022-11-26 23:31:58,787
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - This username and password combination does not exist in our system.      2022-11-26 23:32:03,869
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Please try again      2022-11-26 23:32:03,869
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-11-26 23:45:26,070
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-11-26 23:45:26,072
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-11-26 23:45:26,072
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-11-26 23:45:26,072
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-11-26 23:45:26,072
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-11-26 23:45:29,362
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-11-26 23:45:29,362
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-11-26 23:45:29,363
+{INFO} - [com.app.Bank.main.Main] - Please create a unique username.      2022-11-26 23:45:34,268
+{INFO} - [com.app.Bank.main.Main] - Please enter your password.      2022-11-26 23:45:38,233
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Welcome!...........      2022-11-26 23:45:40,443
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:45:40,444
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:45:40,444
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:45:40,444
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:45:40,444
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:45:40,444
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:45:40,444
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:45:40,444
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:45:40,444
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Your balance is:       2022-11-26 23:45:52,087
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - $780      2022-11-26 23:45:52,087
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:45:52,088
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:45:52,088
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:45:52,088
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:45:52,088
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:45:52,088
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:45:52,089
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:45:52,089
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:45:52,089
+{INFO} - [com.app.Bank.main.Main] - Enter the amount you would like to withdraw      2022-11-26 23:46:00,266
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Your total balance is:       2022-11-26 23:46:04,065
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - $680      2022-11-26 23:46:04,065
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:46:04,096
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:46:04,096
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:46:04,096
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:46:04,096
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:46:04,097
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:46:04,097
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:46:04,097
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:46:04,097
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Your balance is:       2022-11-26 23:46:12,493
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - $680      2022-11-26 23:46:12,493
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:46:12,494
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:46:12,494
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:46:12,494
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:46:12,494
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:46:12,494
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:46:12,495
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:46:12,495
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:46:12,495
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-11-26 23:46:20,983
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-11-26 23:46:20,984
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-11-26 23:46:20,984
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-11-26 23:46:20,984
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-11-26 23:46:20,984
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-11-26 23:47:50,457
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-11-26 23:47:50,459
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-11-26 23:47:50,459
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-11-26 23:47:50,459
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-11-26 23:47:50,459
+{INFO} - [com.app.Bank.main.Main] - Hello Customer!      2022-11-26 23:48:05,095
+{INFO} - [com.app.Bank.main.Main] - If you are a new customer please enter 1      2022-11-26 23:48:05,095
+{INFO} - [com.app.Bank.main.Main] - If you are an existing customer, please enter 2      2022-11-26 23:48:05,096
+{INFO} - [com.app.Bank.main.Main] - Please create a unique username.      2022-11-26 23:48:14,306
+{INFO} - [com.app.Bank.main.Main] - Please enter your password.      2022-11-26 23:48:34,099
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Welcome!...........      2022-11-26 23:48:36,560
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:48:36,560
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:48:36,560
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:48:36,560
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:48:36,560
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:48:36,560
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:48:36,560
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:48:36,560
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:48:36,561
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Your balance is:       2022-11-26 23:48:58,560
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - $680      2022-11-26 23:48:58,560
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:48:58,561
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:48:58,561
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:48:58,561
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:48:58,561
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:48:58,561
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:48:58,561
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:48:58,561
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:48:58,561
+{INFO} - [com.app.Bank.main.Main] - Enter the amount you would like to withdraw      2022-11-26 23:49:07,098
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Your total balance is:       2022-11-26 23:49:10,606
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - $670      2022-11-26 23:49:10,606
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:49:10,637
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:49:10,637
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:49:10,637
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:49:10,637
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:49:10,637
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:49:10,637
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:49:10,637
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:49:10,638
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Your balance is:       2022-11-26 23:49:18,202
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - $670      2022-11-26 23:49:18,202
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:49:18,203
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:49:18,203
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:49:18,203
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:49:18,203
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:49:18,203
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:49:18,203
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:49:18,203
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:49:18,203
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:49:27,083
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:49:27,084
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:49:27,084
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:49:27,084
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:49:27,084
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:49:27,084
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:49:27,084
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:49:27,084
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - Your balance is:       2022-11-26 23:49:32,952
+{INFO} - [com.app.Bankdao.impl.CustomerDAOImpl] - $670      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] -   Customer Menu      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] - ------------------      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] - 1) Check Balance      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] - 2) Withdraw      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] - 3) Deposit      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] - 4) Transfer      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] - 5) Exit      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] - Please enter an appropriate Search Option(1-5)      2022-11-26 23:49:32,952
+{INFO} - [com.app.Bank.main.Main] -   Welcome to Java_Banking      2022-11-26 23:49:40,918
+{INFO} - [com.app.Bank.main.Main] - +++++++++++++++++++++++++++++++++      2022-11-26 23:49:40,919
+{INFO} - [com.app.Bank.main.Main] - Are you an employee or a customer?      2022-11-26 23:49:40,919
+{INFO} - [com.app.Bank.main.Main] - Enter E for employee or C for customer.      2022-11-26 23:49:40,919
+{INFO} - [com.app.Bank.main.Main] - Or enter 0 to exit      2022-11-26 23:49:40,919
+{INFO} - [com.app.Bank.main.Main] - Goodbye!      2022-11-27 01:45:37,545

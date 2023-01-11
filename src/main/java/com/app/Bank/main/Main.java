@@ -111,7 +111,7 @@ public class Main {
 			log.info("If you are a new customer please enter 1");
 			log.info("If you are an existing customer, please enter 2");
 			int n = Integer.parseInt(sc.nextLine());
-			while (n == 1) {
+				if (n == 1) {
 				log.info("Hello new customer, would you like to apply for a new account with Java Banking?");
 				log.info("Enter 1 for yes. Enter 2 for no");
 				//int acc = Integer.parseInt(sc.nextLine());
@@ -132,7 +132,7 @@ public class Main {
 			
 			
 			
-			log.info("Please enter your username.");
+			log.info("Please create a unique username.");
 			String user = sc.nextLine();
 			
 			log.info("Please enter your password.");
