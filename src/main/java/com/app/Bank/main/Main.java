@@ -37,9 +37,18 @@ public class Main {
 		char p = sc.nextLine().charAt(0);
 
 		
-		if(p != 'E' & p != 'e' & p != 'C' & p != 'c' & p != '0') {
+		while(p != 'E' & p != 'e' & p != 'C' & p != 'c' & p != '0') {
 			log.error("The character entered was not E or C");
 			log.info("Please try again.");
+			//int ch = 0; 
+			log.info("  Welcome to Java_Banking");
+			log.info("+++++++++++++++++++++++++++++++++");
+			log.info("Are you an employee or a customer?");
+			log.info("Enter E for employee or C for customer.");
+			log.info("Or enter 0 to exit");
+			
+			//Scanner sc = new Scanner(System.in);
+			//char p = sc.nextLine().charAt(0);
 		}
 				
 		if(p == '0') {
@@ -118,71 +127,73 @@ public class Main {
 				String acc = sc.nextLine();
 				if(acc.equals("1")) {
 					log.info("hello world");
-				}
-				else {
-					log.info("GoodBye");
 					
-					if(!acc.equals("1") || !acc.equals("2") ) {
-						log.info("Please try again. You didn't enter a 1 or 2.");
+					log.info("Please create a unique username.");
+					String user = sc.nextLine();
+					
+					log.info("Please enter your password.");
+					String pass = sc.nextLine(); 
+					int id = dao.getNewCustomerIdFromLogin(user, pass); 
+					if (id == 0) {
+						break;
 					}
+					
+					do {
+						log.info("  Customer Menu");
+						log.info("------------------");
+						log.info("1) Check Balance");
+						log.info("2) Withdraw");
+						log.info("3) Deposit");
+						log.info("4) Transfer");
+						log.info("5) Exit");
+						log.info("Please enter an appropriate Search Option(1-5)");
+						try {
+							ch = Integer.parseInt(sc.nextLine());
+						} catch (NumberFormatException e) {
+
+						}
+					
+						switch(ch) {
+						case 1: 
+							dao1.checkBalance(id);
+							break;
+						case 2:
+							log.info("Enter the amount you would like to withdraw");
+							int amount = Integer.parseInt(sc.nextLine());
+							dao1.withdraw(amount, id);
+							break;
+						case 3:
+							log.info("Enter the amout you would like to deposit");
+							int deposit = Integer.parseInt(sc.nextLine());
+							dao1.deposit(deposit, id);
+							break;
+							
+						case 4:
+							log.info("Sorry tranfer is not available at the moment");
+							break;
+							
+						case 5:
+							log.info("Thank you for Using Java Banking");
+							log.info("Goodbye");
+							break;
+							
+						}
+						
+						}while (ch > 0);
+					
+				}
+				else if (acc.equals("2")){
+					log.info("GoodBye");
+				}
+					
+				else {
+					log.info("Please try again. You didn't enter a 1 or 2.");
+	
 				}
 				
 			
 			}
 			
-			
-			
-			log.info("Please create a unique username.");
-			String user = sc.nextLine();
-			
-			log.info("Please enter your password.");
-			String pass = sc.nextLine(); 
-			int id = dao.getCustomerIdFromLogin(user, pass); 
-			if (id == 0) {
-				break;
-			}
-			do {
-			log.info("  Customer Menu");
-			log.info("------------------");
-			log.info("1) Check Balance");
-			log.info("2) Withdraw");
-			log.info("3) Deposit");
-			log.info("4) Transfer");
-			log.info("5) Exit");
-			log.info("Please enter an appropriate Search Option(1-5)");
-			try {
-				ch = Integer.parseInt(sc.nextLine());
-			} catch (NumberFormatException e) {
-
-			}
-		
-			switch(ch) {
-			case 1: 
-				dao1.checkBalance(id);
-				break;
-			case 2:
-				log.info("Enter the amount you would like to withdraw");
-				int amount = Integer.parseInt(sc.nextLine());
-				dao1.withdraw(amount, id);
-				break;
-			case 3:
-				log.info("Enter the amout you would like to deposit");
-				int deposit = Integer.parseInt(sc.nextLine());
-				dao1.deposit(deposit, id);
-				break;
-				
-			case 4:
-				log.info("Sorry tranfer is not available at the moment");
-				break;
-				
-			case 5:
-				log.info("Thank you for Using Java Banking");
-				log.info("Goodbye");
-				break;
-				
-			}
-			
-			}while (ch > 0);
 			
 		break;
 		}

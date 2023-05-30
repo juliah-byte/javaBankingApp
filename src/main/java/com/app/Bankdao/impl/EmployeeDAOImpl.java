@@ -66,7 +66,6 @@ public class EmployeeDAOImpl implements EmployeeDAO{
 			}
 			while(rs.next()== false) {
 				log.info("This username and password combination does not exist in our system.");
-				log.info("Please try again");
 				return c;
 			}
 		} catch (ClassNotFoundException | SQLException e) {
