@@ -5,6 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+
 import org.apache.log4j.Logger;
 
 import com.app.Bank.dbutil.PostgresConnection;
@@ -59,23 +60,30 @@ public class CustomerLogDAOImpl implements CustomerLogDAO {
 					//connection.close();
 					return r;
 				}
-				else if(rs.next()== false) {
-					String sql2 = "insert into \"Banking_Schema\".customerlog (username, password) values (?, ?";
+				//else if(rs.next()== false) {
+				else {
+					String sql2 = "insert into \"Banking_Schema\".customerlog (customerlogid, username, password, customerid) values (?, ?, ?, ?)";
 					PreparedStatement preparedStatement2 = connection.prepareStatement(sql2);
-					preparedStatement2.setString(1, "user");
-					preparedStatement2.setString(2, "pass");
+					preparedStatement2.setInt(1,5);
+					preparedStatement2.setString(2, user);
+					preparedStatement2.setString(3, pass);
+					preparedStatement2.setInt(4, 103);
 					preparedStatement2.executeUpdate();
 					log.info("Your credentials have been saved.");
 					log.info("No further Action is required.");
-					connection.close();
+					//connection.close();
 					//return rs2;
 				}
+				
+				connection.close();
+				
 			} catch (ClassNotFoundException | SQLException e) {
 				// TODO Auto-generated catch block
 				//e.printStackTrace();
 				log.trace(e);
 			}
-				
+			
+			
 		return c;
 	}
 
