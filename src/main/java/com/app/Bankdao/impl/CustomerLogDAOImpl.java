@@ -56,14 +56,19 @@ public class CustomerLogDAOImpl implements CustomerLogDAO {
 					log.info("Welcome!...........");
 					
 					int r = rs.getInt(1);
-					connection.close();
+					//connection.close();
 					return r;
 				}
-				while(rs.next()== false) {
+				else if(rs.next()== false) {
+					String sql2 = "insert into \"Banking_Schema\".customerlog (username, password) values (?, ?";
+					PreparedStatement preparedStatement2 = connection.prepareStatement(sql2);
+					preparedStatement2.setString(1, "user");
+					preparedStatement2.setString(2, "pass");
+					preparedStatement2.executeUpdate();
 					log.info("Your credentials have been saved.");
 					log.info("No further Action is required.");
-					log.info("Please wait for your application to be processed.");
-					return c;
+					connection.close();
+					//return rs2;
 				}
 			} catch (ClassNotFoundException | SQLException e) {
 				// TODO Auto-generated catch block

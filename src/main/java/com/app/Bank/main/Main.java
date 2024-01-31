@@ -179,7 +179,7 @@ public class Main {
 							
 						}
 						
-						}while (ch > 0);
+						}while (ch > 0 & ch < 5);
 					
 				}
 				else if (acc.equals("2")){
